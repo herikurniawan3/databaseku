@@ -1,8 +1,14 @@
-[
-  {
-    "6281234567890": {
-      "name": "Budi",
-      "password": "rahasia123"
-    }
+{
+  "6281234567890": {
+    "name": "Budi",
+    "password": "rahasia123"
+  },
+  "6289876543210": {
+    "name": "Citra",
+    "password": "amanbanget"
+  },
+  "628555111222": {
+    "name": "Alex",
+    "password": "passalex"
   }
-]
+}
